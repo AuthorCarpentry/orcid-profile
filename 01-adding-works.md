@@ -1,42 +1,39 @@
 #  Adding Works
 
-15 Minutes
+45 Minutes
 
 ---
 
 ## Learning Objectives
 
-* Enter one work manually
-* Enter one work using the Crossref or DataCite wizard
-* Enter one work using the Scopus or ResearcherID wizard
-* Enter a list of works using the BibTeX upload feature
+* Enter works in your OrCiD profile using multiple approaches
+    * Perform a manual entry 
+    * Crossref or DataCite wizard
+    * Upload a BibTex publications list
 * Compare displayed citations from various input approaches and deduplicate records
+* Export BibTex citations from OrCiD profile for reuse in other systems 
 
----
+> ## Exercise 2A. Manually add a citation to your OrCidD Profile
+> Add a citation to your profile manually.
+> 
+> > ## Solution 2A
+> > Go to Add works -> Add manually.  Discuss the pros and cons of doing a 
+> > manual upload
 
-> ## Exercise 2B. Creating a file of BibTeX citations for use in a paper
-> Fetch several references from an open database on the Web and
-> use them to compose a bibliography for use in a paper.
->
+> ## Exercise 2B. Use a wizard to add citations to your ORCiD Profile
+> Use the CrossRef or DataCite wizard to find and add content to your OrCiD
+> profile.
+> 
 > > ## Solution 2B
-> > Save each citation in BibTeX format for reuse (e.g., save as cite1.bib,
-> > cite2.bib, etc.). Concatenate the individual BibTeX citations into one bibliography 
-> > using command line tools:
-> >
-> > `$cat cite1.bib, cite2.bib, cite3 bib > citations.bib`
-> > 
-> > `$cat citations.bib`
-> > 
-> > Everything look okay? Save that concatenated file for use in the LaTeX lesson
-> > Monday night here at Trieste!
+> > Go to Add works -> Search & link -> CrossRef or DataCite.  Try searching by
+> > name, OrCiD, or other options. Discuss the quality of the citations.
 
----
-
-> ## Exercise 2C. Add a citation to your new ORCiD Profile
-> Upload one of the BiBTeX files saved in Ex. 2A.
+> ## Exercise 2C. Add your BibTex citations to your OrCidD Profile
+> Take a list of BibTex citations generated in the DOI lesson and add them to
+> your profile
 > 
 > > ## Solution 2C
-> > Once done, try ORCiD's own integrated tools for finding and adding citations.
+> > Go to Add works -> Import BibTex.  How well did the import do?
 
 ---
 
